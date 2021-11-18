@@ -23,6 +23,9 @@ int main()
     if (check==true){
         cout<<"word is palindrome"<< endl;
     }
+    else{
+        cout<<" Not Palindrome";
+    }
     
     return 0;
 }
